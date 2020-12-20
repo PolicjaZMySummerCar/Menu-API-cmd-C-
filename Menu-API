@@ -1,0 +1,66 @@
+#include <iostream>
+#include <stdio.h>
+#include <cstdlib>
+#include <conio.h>
+#include <windows.h>
+
+using namespace std;
+char 
+int 
+string 
+int main()
+//MENU
+while (true)
+{
+    cout << "------------------------------" << endl;
+    cout << " [TITLE] " << endl;
+    cout << "------------------------------" << endl;
+    cout<< "[first option]" << endl;
+    cout << "---------------" << endl;
+    cout<< "[second option] " << endl;
+    cout << "---------------" << endl;
+    cout<< "[third option]" << endl;
+    cout << "---------------" << endl;
+    cout<< "[fourth option]" << endl;
+    cout<< "" << endl;
+    cout<< "Copyright PolicjaZMySummerCar" << endl;
+    wybor_menu=getch();
+//PICK
+    switch([title_menu])
+
+        case '1':
+        {
+
+        }
+
+    switch([title_menu])
+        case '2':
+        {
+           
+        }
+    switch([title_menu])
+        case '3':
+        {
+
+        }
+    switch([title_menu])
+        case '4':
+        {
+
+        }
+
+
+
+
+
+
+
+
+        getchar();getchar();
+        system("cls");
+    }
+}
+
+
+return 0;
+}
